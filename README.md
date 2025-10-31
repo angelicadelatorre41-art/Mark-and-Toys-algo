@@ -1,1 +1,1 @@
-# Mark-and-Toys-algo
+# Mark-and-Toys-algo The program sorts the toy prices in ascending order so that cheaper toys are bought first. It then accumulates the total cost until the budget limit k is reached, counting how many toys can be purchased without exceeding it.
